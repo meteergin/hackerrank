@@ -7,7 +7,7 @@ package com.meteergin.hackerrank.solutions;
 
 /**
  *
- * @author metee
+ * @author mete.ergin
  */
 public class RepeatedString {
 
